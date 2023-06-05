@@ -11,7 +11,7 @@ The team was composed of 4 members. Here are listed parts of the project that ea
     - GUI design and implementation
     - engine of the calculator
     - tests for the engine interface
-    - Make
+    - Makefile
 - František Holáň
     - implementation of math library
     - *program for calculation of standard deviation*
@@ -22,7 +22,7 @@ The team was composed of 4 members. Here are listed parts of the project that ea
     - *mockup of the future version*
 - Lukáš Španír
     - *User manual*
-    - debian package (to be added)
+    - *debian package*
     - Doxyfile
 
 Entries in *italic* are not included in this repository.
